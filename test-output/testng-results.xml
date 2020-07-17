@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="109912" started-at="2020-07-14T12:22:12Z" finished-at="2020-07-14T12:24:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="109912" started-at="2020-07-14T12:22:12Z" finished-at="2020-07-14T12:24:02Z">
+      <class name="flipkarttestpages.Amazonregistration">
+        <test-method status="PASS" signature="setup()[pri:0, instance:flipkarttestpages.Amazonregistration@5622fdf]" name="setup" is-config="true" duration-ms="9259" started-at="2020-07-14T12:22:13Z" finished-at="2020-07-14T12:22:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="registertest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:flipkarttestpages.Amazonregistration@5622fdf]" name="registertest" duration-ms="2288" started-at="2020-07-14T12:22:22Z" data-provider="testdata" finished-at="2020-07-14T12:22:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kunal]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7046449967]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[kunal@pmc.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Kunal10#]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registertest -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:flipkarttestpages.Amazonregistration@5622fdf]" name="quit" is-config="true" duration-ms="1239" started-at="2020-07-14T12:22:25Z" finished-at="2020-07-14T12:22:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:flipkarttestpages.Amazonregistration@5622fdf]" name="setup" is-config="true" duration-ms="8116" started-at="2020-07-14T12:22:26Z" finished-at="2020-07-14T12:22:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="registertest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:flipkarttestpages.Amazonregistration@5622fdf]" name="registertest" duration-ms="2263" started-at="2020-07-14T12:22:34Z" data-provider="testdata" finished-at="2020-07-14T12:22:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kunal]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7046449967]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[kunal@pmc.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Kunal10#]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registertest -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:flipkarttestpages.Amazonregistration@5622fdf]" name="quit" is-config="true" duration-ms="1270" started-at="2020-07-14T12:22:36Z" finished-at="2020-07-14T12:22:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:flipkarttestpages.Amazonregistration@5622fdf]" name="setup" is-config="true" duration-ms="8215" started-at="2020-07-14T12:22:37Z" finished-at="2020-07-14T12:22:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="registertest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:flipkarttestpages.Amazonregistration@5622fdf]" name="registertest" duration-ms="2243" started-at="2020-07-14T12:22:46Z" data-provider="testdata" finished-at="2020-07-14T12:22:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kunal]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7046449967]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[kunal@pmc.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Kunal10#]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registertest -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:flipkarttestpages.Amazonregistration@5622fdf]" name="quit" is-config="true" duration-ms="1329" started-at="2020-07-14T12:22:48Z" finished-at="2020-07-14T12:22:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:flipkarttestpages.Amazonregistration@5622fdf]" name="setup" is-config="true" duration-ms="5506" started-at="2020-07-14T12:22:49Z" finished-at="2020-07-14T12:22:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="registertest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:flipkarttestpages.Amazonregistration@5622fdf]" name="registertest" duration-ms="2302" started-at="2020-07-14T12:22:55Z" data-provider="testdata" finished-at="2020-07-14T12:22:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Abhishek1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3434454555]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[abhishek@123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[abbi12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registertest -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:flipkarttestpages.Amazonregistration@5622fdf]" name="quit" is-config="true" duration-ms="1251" started-at="2020-07-14T12:22:57Z" finished-at="2020-07-14T12:22:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:flipkarttestpages.Amazonregistration@5622fdf]" name="setup" is-config="true" duration-ms="7877" started-at="2020-07-14T12:22:58Z" finished-at="2020-07-14T12:23:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="registertest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:flipkarttestpages.Amazonregistration@5622fdf]" name="registertest" duration-ms="2262" started-at="2020-07-14T12:23:06Z" data-provider="testdata" finished-at="2020-07-14T12:23:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Abhishek2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3434454555]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[abhishek@124]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[abbi12346]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registertest -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:flipkarttestpages.Amazonregistration@5622fdf]" name="quit" is-config="true" duration-ms="1361" started-at="2020-07-14T12:23:08Z" finished-at="2020-07-14T12:23:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:flipkarttestpages.Amazonregistration@5622fdf]" name="setup" is-config="true" duration-ms="7907" started-at="2020-07-14T12:23:10Z" finished-at="2020-07-14T12:23:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="registertest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:flipkarttestpages.Amazonregistration@5622fdf]" name="registertest" duration-ms="2281" started-at="2020-07-14T12:23:18Z" data-provider="testdata" finished-at="2020-07-14T12:23:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Abhishek3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3434454555]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[abhishek@125]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[abbi12347]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registertest -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:flipkarttestpages.Amazonregistration@5622fdf]" name="quit" is-config="true" duration-ms="1313" started-at="2020-07-14T12:23:20Z" finished-at="2020-07-14T12:23:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:flipkarttestpages.Amazonregistration@5622fdf]" name="setup" is-config="true" duration-ms="8836" started-at="2020-07-14T12:23:21Z" finished-at="2020-07-14T12:23:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="registertest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:flipkarttestpages.Amazonregistration@5622fdf]" name="registertest" duration-ms="2277" started-at="2020-07-14T12:23:30Z" data-provider="testdata" finished-at="2020-07-14T12:23:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lijo1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[445455]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[lijoji123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[6565656]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registertest -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:flipkarttestpages.Amazonregistration@5622fdf]" name="quit" is-config="true" duration-ms="1279" started-at="2020-07-14T12:23:32Z" finished-at="2020-07-14T12:23:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:flipkarttestpages.Amazonregistration@5622fdf]" name="setup" is-config="true" duration-ms="5675" started-at="2020-07-14T12:23:34Z" finished-at="2020-07-14T12:23:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="registertest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:flipkarttestpages.Amazonregistration@5622fdf]" name="registertest" duration-ms="2285" started-at="2020-07-14T12:23:39Z" data-provider="testdata" finished-at="2020-07-14T12:23:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lijo2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[445455]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[lijoji124]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[6565656]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registertest -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:flipkarttestpages.Amazonregistration@5622fdf]" name="quit" is-config="true" duration-ms="1268" started-at="2020-07-14T12:23:42Z" finished-at="2020-07-14T12:23:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:flipkarttestpages.Amazonregistration@5622fdf]" name="setup" is-config="true" duration-ms="5598" started-at="2020-07-14T12:23:43Z" finished-at="2020-07-14T12:23:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="registertest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:flipkarttestpages.Amazonregistration@5622fdf]" name="registertest" duration-ms="2265" started-at="2020-07-14T12:23:49Z" data-provider="testdata" finished-at="2020-07-14T12:23:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lijo3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[445455]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[lijoji125]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[6565656]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registertest -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:flipkarttestpages.Amazonregistration@5622fdf]" name="quit" is-config="true" duration-ms="1307" started-at="2020-07-14T12:23:51Z" finished-at="2020-07-14T12:23:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:flipkarttestpages.Amazonregistration@5622fdf]" name="setup" is-config="true" duration-ms="6094" started-at="2020-07-14T12:23:52Z" finished-at="2020-07-14T12:23:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="registertest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:flipkarttestpages.Amazonregistration@5622fdf]" name="registertest" duration-ms="2270" started-at="2020-07-14T12:23:58Z" data-provider="testdata" finished-at="2020-07-14T12:24:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lijo4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[445455]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[lijoji126]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[6565656]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registertest -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:flipkarttestpages.Amazonregistration@5622fdf]" name="quit" is-config="true" duration-ms="1545" started-at="2020-07-14T12:24:01Z" finished-at="2020-07-14T12:24:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- flipkarttestpages.Amazonregistration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="flipkarttestpages.Amazonregis"/>
+      <class name="flipkarttestpages.Flipkarthomepagetest"/>
+      <class name="flipkarttestpages.Checkouttestpage"/>
+      <class name="flipkarttestpages.Facebook"/>
+      <class name="flipkarttestpages.Amazonregistration"/>
+      <class name="flipkarttestpages.Producttestpage"/>
+      <class name="flipkarttestpages.Flipkartregistration"/>
+      <class name="flipkarttestpages.Categorypagetest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="flipkarttestpages.Categorypagetest">
+        <methods>
+          <include name="setup"/>
+          <include name="productcount"/>
+          <include name="slider"/>
+          <include name="quit"/>
+        </methods>
+      </class> <!-- flipkarttestpages.Categorypagetest -->
+      <class name="flipkarttestpages.Checkouttestpage">
+        <methods>
+          <include name="verifydeliverydate"/>
+          <include name="verifyproduct"/>
+          <include name="quit"/>
+          <include name="setup"/>
+          <include name="verifydelivery"/>
+          <include name="clickcontinue"/>
+        </methods>
+      </class> <!-- flipkarttestpages.Checkouttestpage -->
+      <class name="flipkarttestpages.Producttestpage">
+        <methods>
+          <include name="prodrating"/>
+          <include name="quit"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- flipkarttestpages.Producttestpage -->
+      <class name="flipkarttestpages.Amazonregis">
+        <methods>
+          <include name="quit"/>
+          <include name="registertest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- flipkarttestpages.Amazonregis -->
+      <class name="flipkarttestpages.Facebook">
+        <methods>
+          <include name="testdata" invocation-numbers="0"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- flipkarttestpages.Facebook -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
